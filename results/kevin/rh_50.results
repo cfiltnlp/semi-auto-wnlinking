@@ -1,0 +1,16 @@
+Parsing command line arguments
+Reading hindi vectors
+a 5109
+v 2178
+r 355
+n 21961
+Reading english vectors
+a 13823
+v 11574
+r 3022
+n 45328
+Reading link data
+0
+0
+Performing reverse cross validation without bias
+Running fold  0

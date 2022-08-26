@@ -1,0 +1,298 @@
+Parsing command line arguments
+Reading hindi vectors
+r 355
+a 5109
+v 2178
+n 21961
+Reading english vectors
+r 3022
+a 13823
+v 11574
+n 45328
+Reading link data
+174
+84
+Performing reverse cross validation without bias
+Running fold  0
+Training
+Translating
+Sim Scoring
+Ranking
+0.25
+0.5
+0.75
+1.0
+1.0
+1.0
+1.0
+1.0
+0 6 8
+Running fold  1
+Training
+Translating
+Sim Scoring
+Ranking
+0.125
+0.625
+0.875
+1.0
+1.0
+1.0
+1.0
+1.0
+0 7 8
+Running fold  2
+Training
+Translating
+Sim Scoring
+Ranking
+0.375
+0.625
+0.75
+1.0
+1.0
+1.0
+1.0
+1.0
+0 6 8
+Running fold  3
+Training
+Translating
+Sim Scoring
+Ranking
+0.25
+0.375
+0.75
+1.0
+1.0
+1.0
+1.0
+1.0
+0 7 8
+Running fold  4
+Training
+Translating
+Sim Scoring
+Ranking
+0.375
+0.375
+0.875
+1.0
+1.0
+1.0
+1.0
+1.0
+0 7 8
+Running fold  5
+Training
+Translating
+Sim Scoring
+Ranking
+0.125
+0.25
+0.875
+1.0
+1.0
+1.0
+1.0
+1.0
+0 7 8
+Running fold  6
+Training
+Translating
+Sim Scoring
+Ranking
+0.25
+0.375
+0.375
+1.0
+1.0
+1.0
+1.0
+1.0
+0 7 8
+Running fold  7
+Training
+Translating
+Sim Scoring
+Ranking
+0.25
+0.5
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0 4 8
+Running fold  8
+Training
+Translating
+Sim Scoring
+Ranking
+0.375
+0.75
+0.875
+1.0
+1.0
+1.0
+1.0
+1.0
+0 6 8
+Running fold  9
+Training
+Translating
+Sim Scoring
+Ranking
+0.25
+0.25
+0.5
+0.6666666666666666
+0.8333333333333334
+1.0
+1.0
+1.0
+0 10 12
+Result =  [0.2625, 0.4625, 0.7625, 0.9666666666666666, 0.9833333333333334, 1.0, 1.0, 1.0]
+Performing reverse cross validation with bias
+Running fold  0
+Training
+Translating
+Sim Scoring
+Ranking
+0.125
+0.5
+0.875
+1.0
+1.0
+1.0
+1.0
+1.0
+0 7 8
+Running fold  1
+Training
+Translating
+Sim Scoring
+Ranking
+0.0
+0.75
+0.875
+1.0
+1.0
+1.0
+1.0
+1.0
+1 6 8
+Running fold  2
+Training
+Translating
+Sim Scoring
+Ranking
+0.25
+0.25
+0.375
+1.0
+1.0
+1.0
+1.0
+1.0
+0 7 8
+Running fold  3
+Training
+Translating
+Sim Scoring
+Ranking
+0.375
+0.625
+0.875
+1.0
+1.0
+1.0
+1.0
+1.0
+0 6 8
+Running fold  4
+Training
+Translating
+Sim Scoring
+Ranking
+0.25
+0.625
+0.75
+1.0
+1.0
+1.0
+1.0
+1.0
+0 5 8
+Running fold  5
+Training
+Translating
+Sim Scoring
+Ranking
+0.125
+0.125
+0.5
+1.0
+1.0
+1.0
+1.0
+1.0
+0 7 8
+Running fold  6
+Training
+Translating
+Sim Scoring
+Ranking
+0.125
+0.375
+0.625
+1.0
+1.0
+1.0
+1.0
+1.0
+0 7 8
+Running fold  7
+Training
+Translating
+Sim Scoring
+Ranking
+0.125
+0.625
+0.875
+1.0
+1.0
+1.0
+1.0
+1.0
+0 7 8
+Running fold  8
+Training
+Translating
+Sim Scoring
+Ranking
+0.25
+0.625
+0.75
+1.0
+1.0
+1.0
+1.0
+1.0
+0 6 8
+Running fold  9
+Training
+Translating
+Sim Scoring
+Ranking
+0.16666666666666666
+0.25
+0.5833333333333334
+0.6666666666666666
+0.75
+1.0
+1.0
+1.0
+0 11 12
+Result =  [0.17916666666666667, 0.475, 0.7083333333333333, 0.9666666666666666, 0.975, 1.0, 1.0, 1.0]
