@@ -2,6 +2,13 @@
 
 # Semi-automatic WordNet Linking using Word Embeddings
 
+[![GitHub issues](https://img.shields.io/github/issues/cfiltnlp/semi-auto-wnlinking?style=flat-square)](https://github.com/cfiltnlp/semi-auto-wnlinking/issues)
+[![GitHub forks](https://img.shields.io/github/forks/cfiltnlp/semi-auto-wnlinking?style=flat-square)](https://github.com/cfiltnlp/semi-auto-wnlinking/network)
+[![GitHub stars](https://img.shields.io/github/stars/cfiltnlp/semi-auto-wnlinking?style=flat-square)](https://github.com/cfiltnlp/semi-auto-wnlinking/stargazers)
+[![GitHub license](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-orange)](https://github.com/cfiltnlp/IWN-En/blob/main/LICENSE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cfiltnlp?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/cfiltnlp)
+
+
 ## About
 
 This repository contains the code and data for the paper titled, "Semi-automatic WordNet Linking using Word Embeddings" published at the Global Wordnet Conference (GWC) in 2018. A pre-print via arXiv is available [here](https://arxiv.org/abs/2201.01747) and the paper is also available [here](https://aclanthology.org/2018.gwc-1.31/), [here](http://dipteshkanojia.github.io/publication/patel-2018-semi/).
