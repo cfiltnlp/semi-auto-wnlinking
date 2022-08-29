@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/cfiltnlp/semi-auto-wnlinking?style=flat-square)](https://github.com/cfiltnlp/semi-auto-wnlinking/issues)
 [![GitHub forks](https://img.shields.io/github/forks/cfiltnlp/semi-auto-wnlinking?style=flat-square)](https://github.com/cfiltnlp/semi-auto-wnlinking/network)
 [![GitHub stars](https://img.shields.io/github/stars/cfiltnlp/semi-auto-wnlinking?style=flat-square)](https://github.com/cfiltnlp/semi-auto-wnlinking/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-orange)](https://github.com/cfiltnlp/IWN-En/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-orange)](https://github.com/cfiltnlp/semi-auto-wnlinking/blob/main/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cfiltnlp?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/cfiltnlp)
 
 
