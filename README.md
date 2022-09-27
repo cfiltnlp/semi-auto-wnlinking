@@ -26,6 +26,7 @@ Please create an environment with Python 3.8 and install scikit-learn by using:
 ```
 
 For result reproducibility, the 'src' folder contains executable python scripts along with BASh scripts which are able to generate the results from this paper.
+For any queries, please open an issue on this repository.
 
 ## Maintainer(s)
 
@@ -35,6 +36,7 @@ For result reproducibility, the 'src' folder contains executable python scripts 
 ## Citation
 
 Patel, K., Kanojia, D. and Bhattacharyya, P., 2018, January. Semi-automatic WordNet Linking using Word Embeddings. In Proceedings of the 9th Global Wordnet Conference (pp. 266-271).
+
 
 ### BiBTeX Citation
 ```latex
